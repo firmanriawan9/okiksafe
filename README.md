@@ -1,0 +1,2 @@
+# okiksafe
+okiksafe.js
